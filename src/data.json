@@ -1,0 +1,137 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "nazov": "IT Engineer",
+        "firma": "TechCo",
+        "adresa": "456 Tech Plaza, Bratislava",
+        "okres": "Bratislava",
+        "plat": 1500,
+        "ulozene": true,
+        "termin_nastupu": "2023-02-01",
+        "druh_pracovneho_pomeru": "Full-time",
+        "information": "We are looking for a skilled software engineer to join our dynamic team. The ideal candidate has experience in web development and is proficient in multiple programming languages."
+      },
+      {
+        "id": 2,
+        "nazov": "Marketing Specialist",
+        "firma": "AdAgency",
+        "adresa": "789 Market Street, Trnava",
+        "okres": "Trnava",
+        "plat": 2000,
+        "ulozene": false,
+        "termin_nastupu": "2023-03-15",
+        "druh_pracovneho_pomeru": "Part-time",
+        "information": "Join our marketing team and help us create compelling campaigns. The candidate should have a strong background in digital marketing and excellent communication skills."
+      },
+      {
+        "id": 3,
+        "nazov": "Graphic Designer",
+        "firma": "DesignStudio",
+        "adresa": "123 Creative Avenue, Žilina",
+        "okres": "Žilina",
+        "plat": 3500,
+        "ulozene": true,
+        "termin_nastupu": "2023-04-01",
+        "druh_pracovneho_pomeru": "Contract",
+        "information": "We are seeking a creative graphic designer with a passion for visual storytelling. The candidate should be proficient in Adobe Creative Suite and have a strong portfolio."
+      },
+      {
+        "id": 4,
+        "nazov": "Software Developer",
+        "firma": "CodeCrafters",
+        "adresa": "567 Developer Road, Banská Bystrica",
+        "okres": "Banskobystrický kraj",
+        "plat": 2800,
+        "ulozene": true,
+        "termin_nastupu": "2023-05-01",
+        "druh_pracovneho_pomeru": "Full-time",
+        "information": "CodeCrafters is hiring a skilled software developer to contribute to innovative projects. Proficiency in multiple programming languages is a must."
+      },
+      {
+        "id": 5,
+        "nazov": "HR Specialist",
+        "firma": "TalentHub",
+        "adresa": "101 Talent Avenue, Prešov",
+        "okres": "Prešovský kraj",
+        "plat": 2200,
+        "ulozene": false,
+        "termin_nastupu": "2023-06-15",
+        "druh_pracovneho_pomeru": "Part-time",
+        "information": "TalentHub is seeking an experienced HR Specialist to join our team. Strong interpersonal and organizational skills are essential."
+      },
+      {
+        "id": 6,
+        "nazov": "UX/UI Designer",
+        "firma": "DigitalCraft",
+        "adresa": "222 Creative Lane, Košice",
+        "okres": "Košický kraj",
+        "plat": 3200,
+        "ulozene": true,
+        "termin_nastupu": "2023-07-01",
+        "druh_pracovneho_pomeru": "Contract",
+        "information": "DigitalCraft is looking for a talented UX/UI Designer to create engaging user experiences. Proficiency in design tools is required."
+      },
+      {
+        "id": 7,
+        "nazov": "Financial Analyst",
+        "firma": "FinanceFirst",
+        "adresa": "333 Finance Street, Nitra",
+        "okres": "Nitriansky kraj",
+        "plat": 2800,
+        "ulozene": true,
+        "termin_nastupu": "2023-08-01",
+        "druh_pracovneho_pomeru": "Full-time",
+        "information": "FinanceFirst is hiring a Financial Analyst with strong analytical skills. Experience in financial modeling and reporting is a plus."
+      },
+      {
+        "id": 8,
+        "nazov": "Customer Support Representative",
+        "firma": "SupportSolutions",
+        "adresa": "444 Support Lane, Trnavský kraj",
+        "okres": "Trnavský kraj",
+        "plat": 2000,
+        "ulozene": false,
+        "termin_nastupu": "2023-09-15",
+        "druh_pracovneho_pomeru": "Part-time",
+        "information": "Join SupportSolutions as a Customer Support Representative and provide excellent service to our customers. Strong communication skills are required."
+      },
+      {
+        "id": 9,
+        "nazov": "Network Administrator",
+        "firma": "NetworkTech",
+        "adresa": "555 Network Road, Trenčiansky kraj",
+        "okres": "Trenčiansky kraj",
+        "plat": 2700,
+        "ulozene": true,
+        "termin_nastupu": "2023-10-01",
+        "druh_pracovneho_pomeru": "Contract",
+        "information": "NetworkTech is seeking a skilled Network Administrator to manage and optimize our network infrastructure. Experience in network security is a plus."
+      },
+      {
+        "id": 10,
+        "nazov": "Sales Representative",
+        "firma": "SalesPro",
+        "adresa": "666 Sales Boulevard, Zahraničie",
+        "okres": "Zahraničie",
+        "plat": 2500,
+        "ulozene": false,
+        "termin_nastupu": "2023-11-15",
+        "druh_pracovneho_pomeru": "Full-time",
+        "information": "SalesPro is expanding its sales team. We are looking for a motivated Sales Representative with excellent negotiation skills. This position is based abroad."
+      },
+      {
+        "id": 11,
+        "nazov": "IT Engineer",
+        "firma": "TechCo",
+        "adresa": "456 Tech Plaza, Bratislava",
+        "okres": "Bratislava",
+        "plat": 1500,
+        "ulozene": false,
+        "termin_nastupu": "2023-02-01",
+        "druh_pracovneho_pomeru": "Full-time",
+        "information": "We are looking for a skilled software engineer to join our dynamic team. The ideal candidate has experience in web development and is proficient in multiple programming languages."
+      }
+    ]
+  }
+  
