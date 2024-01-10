@@ -20,11 +20,11 @@
   <script>
   export default {
     data() {
-      return {
-        pozicia: '',
-        miesto: '',
-      };
-    },
+    return {
+      pozicia: '',
+      miesto: '',
+    };
+  },
     methods: {
       handleSubmit() {
         const pozicia = this.pozicia;

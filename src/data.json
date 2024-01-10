@@ -41,7 +41,7 @@
         "nazov": "Software Developer",
         "firma": "CodeCrafters",
         "adresa": "567 Developer Road, Banská Bystrica",
-        "okres": "Banskobystrický kraj",
+        "okres": "Banska Bystrica",
         "plat": 2800,
         "ulozene": true,
         "termin_nastupu": "2023-05-01",
@@ -53,7 +53,7 @@
         "nazov": "HR Specialist",
         "firma": "TalentHub",
         "adresa": "101 Talent Avenue, Prešov",
-        "okres": "Prešovský kraj",
+        "okres": "Prešov",
         "plat": 2200,
         "ulozene": false,
         "termin_nastupu": "2023-06-15",
@@ -65,7 +65,7 @@
         "nazov": "UX/UI Designer",
         "firma": "DigitalCraft",
         "adresa": "222 Creative Lane, Košice",
-        "okres": "Košický kraj",
+        "okres": "Košice",
         "plat": 3200,
         "ulozene": true,
         "termin_nastupu": "2023-07-01",
@@ -77,7 +77,7 @@
         "nazov": "Financial Analyst",
         "firma": "FinanceFirst",
         "adresa": "333 Finance Street, Nitra",
-        "okres": "Nitriansky kraj",
+        "okres": "Nitra",
         "plat": 2800,
         "ulozene": true,
         "termin_nastupu": "2023-08-01",
@@ -88,8 +88,8 @@
         "id": 8,
         "nazov": "Customer Support Representative",
         "firma": "SupportSolutions",
-        "adresa": "444 Support Lane, Trnavský kraj",
-        "okres": "Trnavský kraj",
+        "adresa": "444 Support Lane, Trnava",
+        "okres": "Trnava",
         "plat": 2000,
         "ulozene": false,
         "termin_nastupu": "2023-09-15",
@@ -100,8 +100,8 @@
         "id": 9,
         "nazov": "Network Administrator",
         "firma": "NetworkTech",
-        "adresa": "555 Network Road, Trenčiansky kraj",
-        "okres": "Trenčiansky kraj",
+        "adresa": "555 Network Road, Trenčín",
+        "okres": "Trenčín",
         "plat": 2700,
         "ulozene": true,
         "termin_nastupu": "2023-10-01",
@@ -132,6 +132,20 @@
         "druh_pracovneho_pomeru": "Full-time",
         "information": "We are looking for a skilled software engineer to join our dynamic team. The ideal candidate has experience in web development and is proficient in multiple programming languages."
       }
+    ],
+
+    "ziadosti": [
+      {
+        "id_ziadosti": 1,
+        "meno": "Jozef",
+        "priezvisko": "Kovac",
+        "email": "its.simply.jozef@gmail.com",
+        "tel_cislo": "+421951321735",
+        "time": "+421951321735",
+        "cv": "I am excited about the opportunity to contribute my skills and expertise to the TechCo team. I am confident that my background in web development and proficiency in multiple programming languages make me a strong fit for this role. I look forward to the possibility of discussing how my skills align with your company's needs in greater detail. Thank you for considering my application.         Sincerely,  Jozef",
+        "id_ponuky": 1
+      }
     ]
+
   }
   

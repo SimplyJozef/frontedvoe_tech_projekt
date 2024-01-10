@@ -3,6 +3,7 @@ import HomeView from '../views/HomeView.vue'
 import JobsView from '../views/JobsView.vue'
 import PonukaView from '../views/PonukaView.vue'
 import ReagovatView from '../views/ReagovatView.vue'
+import PoslaneZiadostiView from '../views/PoslaneZiadostiView.vue'
 
 
 const router = createRouter({
@@ -30,9 +31,12 @@ const router = createRouter({
       name: 'reagovat',
       component: ReagovatView
     },
+    {
+      path: '/ziadosti',
+      name: 'ziadosti',
+      component: PoslaneZiadostiView
+    },
    
-
-
   ],
 })
 

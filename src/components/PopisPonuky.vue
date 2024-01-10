@@ -1,8 +1,9 @@
 <template>
 
   <div class="shadow-lg border border-color-grey">
-    <div class="bg-white text-5xl ">
-      <p class="ml-2 mb-1">{{ job.nazov }}</p>
+    <div class="bg-white ">
+      <p class="ml-2 mb-1 text-5xl ">{{ job.nazov }}</p>
+      <p class="ml-2 mt-1 text-4xl ">{{ job.firma }}</p>
     </div>
     <div class="mt-5 ml-2 grid gap-6 mb-6 md:grid-cols-2 ">
       <div class="flex items-center mt-2">

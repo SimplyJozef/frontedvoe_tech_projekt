@@ -14,8 +14,8 @@
                 <p @click="toggleUlozene('all')" class="text-lg">Všetky ponuky</p>
             </div>
 
-            <div class="flex items-center flex-row gap-2">
-                <p class="text-lg">Moje životopisy</p>
+            <div class="flex items-center flex-row gap-2 cursor-pointer hover:underline">
+                <p @click="navigateToZiadosti" class="text-lg">Poslané žiadosti</p>
                 <span class="bg-gray-100 text-gray-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">Tip</span>
             </div>
         </nav>
@@ -27,6 +27,9 @@ export default {
   methods: {
     navigateToHome() {
       this.$router.push('/');
+    },
+    navigateToZiadosti() {
+      this.$router.push('/ziadosti');
     },
     toggleUlozene(f) {
     const filter = f;

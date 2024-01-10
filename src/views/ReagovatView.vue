@@ -23,7 +23,7 @@
 </div>
 
 
-    <form @submit.prevent="handleJobApplication">
+    <form @submit.prevent="submitForm">
     <div class="container grid gap-6 mb-6 md:grid-cols-1 mt-10 ">
       <div>
         <label for="name" class="block mb-2 text-xs font-medium text-gray-900">Meno</label>
@@ -49,6 +49,7 @@
         <button type="submit" class="bg-color-red text-white px-4 py-2 rounded-sm w-full">Odoslať žiadosť</button>
       </div>
     </div>
+    <input v-model="time" type="hidden" id="time">
   </form>
 
   </template>
@@ -66,7 +67,8 @@
       surname: '',
       email: '',
       phone: '',
-      resume: ''
+      resume: '',
+      time: '',
     };
   },
     created() {
